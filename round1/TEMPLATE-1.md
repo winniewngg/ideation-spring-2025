@@ -1,37 +1,49 @@
-# Chrome Extension Idea: [Title]
+# Chrome Extension Idea: Amazon Review Extractor
 
 ## Authors
 
-[Include your name(s) here]
+Junie Guo
 
 ## Problem Statement
 
-[Describe the problem that your Chrome Extension will solve. What are the pain points that users experience? How does your extension address these pain points?]
+Online shoppers, researchers, and marketers often need to analyze multiple Amazon reviews, but manually copying and formatting them is tedious and time-consuming. Our Chrome Extension addresses this pain point by allowing users to extract, copy, and format multiple Amazon reviews with a single click—making them ready for analysis in ChatGPT or other tools.
 
 ## Target Audience
 
-[Identify the target audience for your Chrome Extension. Who will benefit from using your extension? What are the main characteristics of your target audience?]
+Our target audience includes:
+
+- Online shoppers looking to make informed decisions
+- Content creators needing real customer feedback
+- Product researchers conducting sentiment analysis
+- Marketers analyzing customer opinions
+- Developers building tools that utilize user reviews
+
+These users are tech-savvy, value efficiency, and are comfortable using browser extensions and AI tools like ChatGPT.
 
 ## Description
 
-[Provide a general description of your Chrome Extension idea in 2-3 sentences. Explain the main purpose and functionality of the extension.]
+This Chrome Extension enables users to quickly grab customer reviews from Amazon product pages and automatically format them for use in ChatGPT prompts. With a single click, users can extract selected or all reviews and paste them directly into ChatGPT for instant insights, summaries, or comparisons.
 
 ## Selling Points
 
-1. [Selling Point 1]
-2. [Selling Point 2]
-3. [Selling Point 3]
-4. [Selling Point 4]
-5. [Selling Point 5]
+- ✅ **One-click extraction** – Instantly pulls multiple Amazon reviews  
+- 🧠 **ChatGPT-ready format** – Cleans and formats review text for seamless AI input  
+- 🔍 **Customizable filters** – Filter by star rating, verified purchase, keywords  
+- ⏱️ **Time-saving** – Streamlines product research and review analysis  
+- 🧩 **Lightweight & easy-to-use** – Minimal, intuitive UI  
 
 ## User Stories
 
-_[List user stories that describe the main features of your Chrome Extension. Use the following template: "As a [user role], I want to [goal] so that [benefit]." Fill in the brackets with the appropriate information. For Round 1, write 5 user stories; Round 2, write 10 user stories; Round 3, write 15 user stories.]_
+- 🕵️ As a **product researcher**, I want to extract the top 10 reviews from an Amazon page so I can analyze customer sentiment in ChatGPT.  
+- 🛒 As a **casual shopper**, I want to copy only 5-star reviews to understand the positive aspects of a product.  
+- 💬 As a **ChatGPT user**, I want to paste well-formatted review text so that ChatGPT can analyze the data without extra cleanup.  
+- 📈 As a **marketer**, I want to gather both pros and cons from reviews to better position a product.  
+- 👨‍💻 As a **developer**, I want the extension to skip ads and sponsored content to get only authentic customer reviews.
 
 ## Notes
 
-_[Add any additional notes or considerations for your Chrome Extension idea. This could include potential challenges, alternative approaches, or specific features you want to highlight.]_
+- Consider future features like:
+  - **Side-by-side comparisons** of similar products (price, rating, review sentiment)
+  - **Extraction of product name, price, and description** for one-click ChatGPT summarization
 
 ## References & Inspiration
-
-_[Include any references or sources that inspired your Chrome Extension idea. This could be articles, existing products, or other resources that informed your concept. Just paste any links you found during research.]_
