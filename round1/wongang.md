@@ -1,23 +1,23 @@
 
 
-Concept
+### Concept
 A Chrome extension where users input a topic or keywords, and it searches Google Scholar (or uses cached search results), identifies recently published articles, extracts abstracts, and uses an LLM to determine which are most relevant.
 
 
-Core Features
+### Core Features
 * Input a search query or keyword list.
 * Automatically fetches a set number of recent results from Google Scholar (e.g., published in the past 6–12 months).
 * For each abstract, runs LLM summarization and relevance scoring (e.g., "How related is this paper to X?").
 * Ranks and displays the top-N most relevant papers with summaries.
 
 
-Why it works
+### Why it works
 * Solves the overload problem: researchers often see too many new papers.
 * Uses LLMs intelligently to surface what's actually relevant, not just what's ranked high.
 * Creates cleaner, more targeted input for further prompt-based exploration or synthesis.
 
 
-Bonus Ideas
+### Bonus Ideas
 * Allow exporting selected summaries into a markdown/CSV file.
 * Add a “notify me weekly” option to check for updates on a given topic.
 
