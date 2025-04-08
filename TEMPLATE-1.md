@@ -2,7 +2,7 @@
 
 ## Authors
 
-[Include your name(s) here]
+Winnie Wang
 
 ## Problem Statement
 
