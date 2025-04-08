@@ -1,37 +1,61 @@
-# Chrome Extension Idea: [Title]
+# Chrome Extension Idea: Recipe Clipper
 
 ## Authors
 
-[Include your name(s) here]
+Mona Khosla
 
 ## Problem Statement
 
-[Describe the problem that your Chrome Extension will solve. What are the pain points that users experience? How does your extension address these pain points?]
+Recipe websites tend to be full of long stories on the background of each recipe and advertisements from various companies. It can be difficult and annoying to scroll up and down to keep track of the ingredients and the steps of a recipe. It also can be challenging to determine if you have all the ingredients to make a certain recipe, or if you need to go shopping.
 
 ## Target Audience
 
-[Identify the target audience for your Chrome Extension. Who will benefit from using your extension? What are the main characteristics of your target audience?]
+The target audience includes home cooks, food enthusiasts, meal preppers, busy professionals, and parents looking for easier ways to manage meals. This can target also target those who discover recipes online regularly (blogs, Pinterest, etc.), cook at home frequently or aspire to do so, want a more efficient way to track what they need to buy, and are interested in reducing food waste by using what they already have.
 
 ## Description
 
-[Provide a general description of your Chrome Extension idea in 2-3 sentences. Explain the main purpose and functionality of the extension.]
+Recipe Clipper is a Chrome Extension that scrapes and organizes recipes from any website into smart, minimal notecards. It also builds a personalized shopping list by comparing the recipe ingredients to items users already have at home.
 
 ## Selling Points
 
-1. [Selling Point 1]
-2. [Selling Point 2]
-3. [Selling Point 3]
-4. [Selling Point 4]
-5. [Selling Point 5]
+One-Click Recipe Capture – Save any recipe from any website instantly.
+
+Beautiful Notecard Format – View a simplified, clean recipe layout without ads or clutter.
+
+Smart Ingredient Matching – Auto-generates a shopping list based on your pantry.
+
+Meal Planning Ready – Organize clipped recipes into folders and weekly meal plans.
+
+Cross-Platform Sync (future roadmap) – Access your recipes and shopping lists from any device.
 
 ## User Stories
 
-_[List user stories that describe the main features of your Chrome Extension. Use the following template: "As a [user role], I want to [goal] so that [benefit]." Fill in the brackets with the appropriate information. For Round 1, write 5 user stories; Round 2, write 10 user stories; Round 3, write 15 user stories.]_
+As a home cook, I want to save recipes from blogs so that I can reference them later without all the ads.
+
+As a meal prepper, I want to see what ingredients I’m missing so that I can build my grocery list efficiently.
+
+As a busy parent, I want to organize recipes by category so that I can plan meals faster each week.
+
+As a novice cook, I want a clean checklist view of recipe steps so that I don’t get overwhelmed.
+
+As a budget-conscious user, I want to avoid buying duplicate ingredients so that I save money.
 
 ## Notes
 
-_[Add any additional notes or considerations for your Chrome Extension idea. This could include potential challenges, alternative approaches, or specific features you want to highlight.]_
+1. Smart Recipe Scraper:
+Click the extension icon on any recipe webpage.
+
+It auto-detects and scrapes:
+
+Recipe Title
+
+Prep/Cook Time
+
+Ingredients (parsed cleanly)
+
+Instructions (in step-by-step format)
+
+Optional: servings, nutrition info, image
 
 ## References & Inspiration
-
-_[Include any references or sources that inspired your Chrome Extension idea. This could be articles, existing products, or other resources that informed your concept. Just paste any links you found during research.]_
+The google sheet!
